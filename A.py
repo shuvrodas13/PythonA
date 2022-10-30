@@ -23,3 +23,18 @@ print(STYLEUPPERCASE)
 print(_super_secret)
 print(lucyNumber4)
 print(lucy_number_3)
+#primitive data types
+my_string = 'Shuvro'
+my_int = 45
+my_float = 3.14
+my_bool = True
+print(my_string)
+print(my_int)
+print(my_float)
+print(my_bool)
+ #string formatting
+name = 'Shuvro'
+age = 23
+cat = "coco"
+print(f"{name} is {age} years old.")
+print(f"{name} has a cat named {cat}.")
