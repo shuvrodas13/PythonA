@@ -38,3 +38,5 @@ age = 23
 cat = "coco"
 print(f"{name} is {age} years old.")
 print(f"{name} has a cat named {cat}.")
+food: str = "Milk"
+print( f"Louis is going to drink: {food}")
